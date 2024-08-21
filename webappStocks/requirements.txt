@@ -1,9 +1,0 @@
-yfinance
-crewai
-langchain
-langchain-openai
-langchain-community
-duckduckgo-search
-notebook
-jupyter
-pysqlite3-binary
