@@ -9,11 +9,11 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-projeto">Projeto</a>
 </p>
 
+<br>
+
 <p align="center">
   <img alt="Capa StocksAgent" src=".github/preview.jpg">
 </p>
-
-<br>
 
 ## 🚀 Tecnologias
 
